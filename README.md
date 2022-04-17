@@ -1,2 +1,3 @@
 # Sales_example
-Finding the optimal time to display TV advertisements
+
+Alalysing sales data. Finding the popular products and the optimal time to advertise them.
