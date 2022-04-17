@@ -1,2 +1,2 @@
 # Sales_example
-Finding the optimal time to display TV advertisement
+Finding the optimal time to display TV advertisements
